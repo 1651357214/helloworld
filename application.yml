@@ -17,7 +17,7 @@ spring:
     date-format: yyyy-MM-dd HH:mm
     time-zone: Asia/Shanghai
   application:
-    name: cloud-user-service
+    name: cloud-user-service123
 
 mybatis:
   mapper-locations: classpath*:mybatis/mapper/**/*.xml    #
